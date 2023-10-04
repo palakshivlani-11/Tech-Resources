@@ -1,0 +1,1 @@
+Please Contribute only valid resources with proper naming and comments. Always push to hacktoberfest branch. Any spam pr will not be accepted
