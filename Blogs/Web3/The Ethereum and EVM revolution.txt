@@ -1,0 +1,25 @@
+The Ethereum and EVM Revolution: Transforming Blockchain
+
+
+Ethereum is a decentralized blockchain that offers a broader scope of utility , enabling the execution of smart contracts and serving a versatile platform for various decentralized applications. Ethereum enables the establishment of Decentralized Autonomous Organizations (DAOs), which function as self-governing entities governed by smart contracts, eliminating the need for centralized control or authority.
+
+Unlike Ethereum, which offers a wide range of functionalities such as smart contract execution and decentralized application hosting, Bitcoin primarily serves the purpose of facilitating the transfer of its native token within its network, providing a more limited scope of capabilities.
+
+ETHEREUM VIRTUAL MACHINE
+The implementation of a virtual machine is essential for Ethereum to transform into a programmable blockchain, and that’s where the Ethereum Virtual Machine (EVM) plays a crucial role. Serving as a pivotal component of the Ethereum network, the EVM facilitates the execution of smart contracts and decentralized applications (dApps), opening up a plethora of diverse and innovative use-cases within the Ethereum ecosystem.
+
+Now , you must be wondering , what are smart-contracts ?
+
+Smart contracts are contracts encoded in code with predetermined rules and conditions. They enable transactions without the need for trust, as their execution is tamper-proof and guaranteed by the underlying blockchain’s security features. The decentralized nature of blockchain ensures that code execution is distributed across multiple nodes, enhancing resilience against attacks and failures. These contracts employ conditional execution, meaning they will only execute when specific conditions are satisfied.
+
+GAS MECHANISM IN ETHEREUM
+
+Ethereum employs a “gas” mechanism to address the high computational demands of running code on the blockchain. This mechanism serves to prevent the misuse of computational resources, as executing code over the blockchain can be computationally intensive and resource-consuming.The gas mechanism in Ethereum is a thoughtfully crafted system that oversees the distribution of computational resources required for processing transactions( transactions serve as the foundational elements responsible for transferring data or value from one account to another within the network) and executing smart contracts on the blockchain. By doing so, it ensures optimal efficiency and resource utilization within the network.
+
+Curious about how gas mechanism works?
+
+Each operation on the blockchain, whether a simple transaction or a complex smart contract execution, demands computational resources.
+The gas mechanism employs a unit called “gas” to quantify the computational workload associated with executing a specific operation. Different operations incur distinct gas costs.
+When a user initiates a transaction, they are required to pay a transaction fee in Ether (ETH). This fee is calculated by multiplying the gas used during the transaction by the gas price set by the user. The transaction fees are then awarded to miners who add the transaction to the blockchain.
+Gas Limit: Each transaction or smart contract receives a gas limit, indicating the maximum amount of gas allocated for its execution. If a transaction surpasses this limit, it is reversed, and any changes made during the process are discarded. Conversely, if the transaction consumes less gas than the limit, the surplus gas is returned to the sender upon completion, promoting efficiency and optimization.
+Ethereum’s decentralized nature is driving its expansion into diverse sectors, including finance (DeFi) and NFTs (Non-Fungible Tokens).
